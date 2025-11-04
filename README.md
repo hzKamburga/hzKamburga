@@ -1,26 +1,37 @@
-# <div align="center">👋 Merhaba, Ben Berkay!</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Geliştirici+🚀;Bilgisayar+Mühendisliği+Öğrencisi+💻;Pixel+Art+Tutkunu+🎨;Problem+Çözücü+💡&font=Fira%20Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="Animasyonlu Metin" />
+
+# 👋 Merhaba, Ben Berkay!
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Geliştirici+🚀;Bilgisayar+Mühendisliği+Öğrencisi+💻;Pixel+Art+Tutkunu+🎨;Problem+Çözücü+💡;Open+Source+Lover+❤️&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24&pause=1000" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HzKamburga&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Yaş-18-2E8B57?style=for-the-badge&logo=calendar&logoColor=white" alt="Yaş" />
-  <img src="https://img.shields.io/badge/Konum-Tokat,_TR-FF6B6B?style=for-the-badge&logo=location-dot&logoColor=white" alt="Konum" />
-  <img src="https://img.shields.io/badge/Odak-Full_Stack-4ECDC4?style=for-the-badge&logo=code&logoColor=white" alt="Odak" />
-  <img src="https://img.shields.io/badge/Durum-Öğreniyor-FFA07A?style=for-the-badge&logo=rocket&logoColor=white" alt="Durum" />
-</p>
+<div align="center">
+  
+[![Age](https://img.shields.io/badge/Yaş-18-2E8B57?style=for-the-badge&logo=calendar&logoColor=white)](https://github.com/HzKamburga)
+[![Location](https://img.shields.io/badge/Konum-Tokat,_TR-FF6B6B?style=for-the-badge&logo=location-dot&logoColor=white)](https://github.com/HzKamburga)
+[![Focus](https://img.shields.io/badge/Odak-Full_Stack-4ECDC4?style=for-the-badge&logo=code&logoColor=white)](https://github.com/HzKamburga)
+[![Status](https://img.shields.io/badge/Durum-Öğreniyor-FFA07A?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/HzKamburga)
+
+</div>
 
 <div align="center">
-  <a href="mailto:ofof2467yo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/s0_be4kay/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/1246506868977696811">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofof2467yo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s0_be4kay/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1246506868977696811)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HzKamburga)
+
+</div>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=HzKamburga&label=Profil%20Görüntüleme&color=f75c7e&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/HzKamburga?style=for-the-badge&color=f75c7e&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/HzKamburga?style=for-the-badge&color=f75c7e&labelColor=0D1117)
+
 </div>
 
 ---
@@ -32,205 +43,269 @@ const berkay = {
   zamir: "o/kendisi",
   yaşadığıYer: "Tokat, Türkiye",
   yaş: 18,
+  eğitim: "Bilgisayar Mühendisliği",
   kod: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
-  sorabilirsiniz: ["web geliştirme", "teknoloji", "pixel art", "kediler"],
+  konuşabilirsiniz: ["web geliştirme", "teknoloji", "pixel art", "kediler"],
+  
   teknolojiler: {
     frontend: {
-      js: ["React", "Next.js", "Vue"],
-      css: ["Tailwind", "Bootstrap", "Styled-Components"]
+      frameworks: ["React", "Next.js", "Vue"],
+      styling: ["Tailwind CSS", "Bootstrap", "Styled-Components"],
+      state: ["Redux", "Zustand", "Context API"]
     },
     backend: {
-      js: ["Node.js", "Express", "Nest.js"],
-      veritabani: ["MongoDB", "PostgreSQL", "Firebase"]
+      runtime: ["Node.js"],
+      frameworks: ["Express", "Nest.js"],
+      api: ["REST", "GraphQL"],
+      veritabani: ["MongoDB", "PostgreSQL", "Firebase", "Redis"]
     },
-    devOps: ["Docker", "GitHub Actions", "Vercel", "Netlify"],
-    araçlar: ["Git", "VS Code", "Figma", "Postman"]
+    devOps: ["Docker", "GitHub Actions", "CI/CD", "Vercel", "Netlify"],
+    araçlar: ["Git", "VS Code", "Figma", "Postman", "Insomnia"],
+    testing: ["Jest", "React Testing Library", "Cypress"]
   },
-  mimari: ["Serverless Architecture", "Progressive Web Apps", "Single Page Applications"],
+  
+  mimari: [
+    "Serverless Architecture",
+    "Progressive Web Apps",
+    "Single Page Applications",
+    "Microservices",
+    "REST API Design"
+  ],
+  
   şuandaOdak: "Modern teknoloji yığını ile ölçeklenebilir web uygulamaları geliştirme",
-  ilginçBilgi: "Kedim klavyemde uyurken saatlerce kod yazabilirim 🐱"
+  hedeflerim: [
+    "Senior Full Stack Developer olmak",
+    "Open Source'a katkıda bulunmak",
+    "Kendi SaaS projemi geliştirmek"
+  ],
+  ilginçBilgi: "Kedim klavyemde uyurken saatlerce kod yazabilirim 🐱",
+  
+  günlükRutin: function() {
+    while (alive) {
+      eat();
+      code();
+      sleep();
+      repeat();
+    }
+  }
 };
 ```
 
-### 🎯 Şu an ne yapıyorum:
+---
+
+## 🎯 Şu an ne yapıyorum?
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
 
 - 🔭 **Full Stack Web Uygulamaları** üzerinde çalışıyorum
-- 🌱 **TypeScript, Next.js ve Docker** öğreniyorum
-- 👯 **Açık Kaynak Projelerde** işbirliği yapmak istiyorum
-- 💬 **React, Node.js veya Pixel Art** hakkında bana sorabilirsiniz
-- ⚡ İlginç gerçek: **Boş zamanlarımda pixel art yapmayı seviyorum**
+- 🌱 **TypeScript, Next.js 14 ve Docker** öğreniyorum
+- 👯 **Açık kaynak projelere** katkıda bulunmak istiyorum
+- 🤝 **Web geliştirme** konusunda işbirliğine açığım
+- 💬 Bana **JavaScript, React, Node.js** hakkında sorabilirsiniz
 - 📫 Bana ulaşın: **ofof2467yo@gmail.com**
+- ⚡ **Eğlenceli gerçek:** Pixel art yaparak dinlenmeyi seviyorum!
+- 🎯 **2024 Hedefi:** Her gün kod yazmak ve 100+ GitHub katkısı
+
+<br clear="both">
 
 ---
 
-## 🛠️ Teknoloji Yığını
+## 🛠️ Teknoloji Yığınım
 
-<div align="center">
+### 💻 Programlama Dilleri
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
 
-### Programlama Dilleri
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img alt="Redux" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+</p>
 
-### Frontend Framework'ler ve Kütüphaneler
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+</p>
 
-### Backend ve Veritabanı
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+### 🗄️ Veritabanları
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-### Araçlar ve Platformlar
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub İstatistikleri
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scutieeop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scutieeop&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scutieeop&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak İstatistikleri"/>
-</div>
-
-
-</div>
-
-
-
-
-<div align="center">
-  
-### 📊 Haftalık Geliştirme Dağılımı
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 saat 15 dk    ████████████░░░░░░░░░░░░░   48.32%
-React        4 saat 2 dk     ██████░░░░░░░░░░░░░░░░░░░   23.67%
-CSS          2 saat 30 dk    ███░░░░░░░░░░░░░░░░░░░░░░   14.65%
-HTML         1 saat 20 dk    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84%
-TypeScript   58 dk           █░░░░░░░░░░░░░░░░░░░░░░░░   05.52%
-```
-<!--END_SECTION:waka-->
-
-</div>
+### 🔧 Araçlar & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
 
 ---
 
-## 🎨 Kod Yazmadığım Zamanlar
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  
-🎮 **Oyun Oynama:** RPG ve Strateji Oyunları  
-🎨 **Dijital Sanat:** Pixel Art ve UI Tasarım  
-📚 **Okuma:** Bilim Kurgu ve Fantastik Romanlar  
-🎵 **Müzik:** Kod yazarken Lo-fi ve Synthwave  
-🐱 **Kedi Sever:** Kodlama arkadaşım masamda uyur  
+  <img src="https://github-readme-stats.vercel.app/api?username=HzKamburga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f75c7e&icon_color=f75c7e&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HzKamburga&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=f75c7e&text_color=ffffff&langs_count=8" alt="Top Languages" height="180" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HzKamburga&theme=radical&hide_border=true&background=0D1117&stroke=f75c7e&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e&sideNums=ffffff&currStreakNum=ffffff&sideLabels=f75c7e&dates=ffffff" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HzKamburga&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,PullRequest,Issues,Stars,Followers" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🌱 Öğrenme Yolculuğum
+## 📈 Katkı Grafiği
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HzKamburga&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&area_color=f75c7e" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+## 🐍 Katkı Yılanı
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HzKamburga/HzKamburga/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HzKamburga/HzKamburga/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HzKamburga/HzKamburga/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 💼 Yeteneklerim
+
+<div align="center">
+
+| Kategori | Yetenekler |
+|----------|-----------|
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+
+</div>
+
+---
+
+## 🏆 GitHub Profil Özeti
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HzKamburga&theme=radical" alt="Profile Summary" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HzKamburga&theme=radical" alt="Repos per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HzKamburga&theme=radical" alt="Most Commit Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HzKamburga&theme=radical&utcOffset=3" alt="Productive Time" width="32%" />
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 🎵 Spotify'da Şu An
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l5rz2aioai4vacmjkbgqjqiu4y&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=f75c7e&bar_color_cover=true" alt="Spotify Now Playing" />
+</div>
+
+---
+
+## 🎯 Hedeflerim & İlgi Alanlarım
 
 ```mermaid
-timeline
-    title Yazılım Geliştirme Yolculuğum
-    
-    2021 : HTML & CSS
-         : İlk web sayfamı oluşturdum
-         : Temel tasarım prensiplerini öğrendim
-    
-    2022 : JavaScript
-         : İnteraktif web uygulamaları
-         : DOM manipülasyonu ve event handling
-    
-    2023 : React & Node.js
-         : Modern framework'leri öğrenmeye başladım
-         : Backend geliştirmeye giriş
-    
-    2024 : MERN Stack
-         : Full stack projeler geliştirme
-         : MongoDB ve Express.js
-    
-    2025 : TypeScript & Next.js
-         : Tip güvenli kod yazma
-         : Server-side rendering
-         : Modern web mimarisi
+graph LR
+    A[Full Stack Developer] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[DevOps]
+    B --> E[React/Next.js]
+    B --> F[TypeScript]
+    C --> G[Node.js]
+    C --> H[Databases]
+    D --> I[Docker]
+    D --> J[CI/CD]
 ```
 
+### 📚 Şu an öğreniyorum:
+- 🔥 Advanced TypeScript Patterns
+- 🚀 Next.js 14 App Router
+- 🐳 Docker & Kubernetes
+- 📊 System Design & Architecture
+- 🔐 Web Security Best Practices
 
+### 🎨 Hobilerim:
+- 🎮 Pixel Art Çizimi
+- 🎵 Müzik Dinleme
+- 📖 Teknoloji Blogları Okuma
+- 🐱 Kedimle Vakit Geçirme
+- 💻 Side Project Geliştirme
 
-## 💡  Geliştirici Sözü
+---
+
+## 📫 Benimle İletişime Geçin
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [ofof2467yo@gmail.com](mailto:ofof2467yo@gmail.com) |
+| 📷 Instagram | [@s0_be4kay](https://www.instagram.com/s0_be4kay/) |
+| 💬 Discord | [HzKamburga](https://discord.com/users/1246506868977696811) |
+| 🐙 GitHub | [@HzKamburga](https://github.com/HzKamburga) |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Teşekkürler!&fontSize=40&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%" />
+</div>
 
 <div align="center">
   
-*"Kod yazmak, sadece bilgisayara ne yapacağını söylemek değil; gelecekteki kendine ne düşündüğünü açıklamaktır."*
+### ✨ "Kod yazmak bir sanattır, her satır bir fırça darbesidir" ✨
 
-**— John Woods**
+<sub>⭐ Bu profilden hoşlandıysan, yıldız vermeyi unutma!</sub>
 
-</div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
----
-
-## 📚 Şu An Okuduklarım
-
-- 📖 **"Clean Code"** - Robert C. Martin
-
-
----
-
-## 🎯 2024 Hedeflerim
-
-- [ ] **TypeScript** ile güçlü tip sistemi öğrenmek
-- [ ] **Docker** ve konteynerizasyon teknolojileri
-- [ ] **GraphQL** ile API geliştirme
-- [ ] **Jest** ve **Cypress** ile test yazmak
-- [ ] En az **5 açık kaynak projeye** katkıda bulunmak
-- [ ] **Technical writing** becerilerimi geliştirmek
-- [x] **React** ekosisteminde uzmanlaşmak ✅
-- [x] **Node.js** ile backend geliştirme ✅
-
----
-
-## 🤝 İşbirliği Yapalım!
-
-<div align="center">
-  
-İlginç konuşmalar ve işbirliği fırsatlarına her zaman açığım!
-
-**📧 E-posta:** [ofof2467yo@gmail.com](mailto:ofof2467yo@gmail.com)  
-**📱 Discord:** [cutieeop](https://discordapp.com/users/1239991183254618277)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=scutieeop&color=blueviolet&style=for-the-badge&label=Profil+Görüntüleme" alt="Profil Görüntüleme"/>
-  <img src="https://img.shields.io/github/followers/scutieeop?label=Takipçiler&style=for-the-badge&color=blue&logo=github" alt="GitHub Takipçileri"/>
-</div>
-
----
-
-<div align="center">
-  <b>✨ "Kod, mantık ile yazılmış şiirdir" ✨</b>
-  <br><br>
-  <i>⭐ Projelerimi beğenirseniz yıldızlamayı unutmayın!</i>
 </div>
