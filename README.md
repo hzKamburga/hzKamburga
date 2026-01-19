@@ -118,16 +118,6 @@ const berkay = {
 
 ---
 
-## 🎧 Vibe Check
-
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31l5rz2aioai4vacmjkbgqjqiu4y&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l5rz2aioai4vacmjkbgqjqiu4y&cover_image=true&theme=novat&show_offline=false&background_color=0d1117&interchange=true&bar_color=f75c7e&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8a2be2,f75c7e,4169e1&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=50&animation=fadeIn&fontColor=fff" width="100%" />
   
