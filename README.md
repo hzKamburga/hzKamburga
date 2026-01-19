@@ -106,17 +106,7 @@ const berkay = {
 
 ---
 
-## 🐍 Kodun İzi
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HzKamburga/HzKamburga/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HzKamburga/HzKamburga/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HzKamburga/HzKamburga/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8a2be2,f75c7e,4169e1&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=50&animation=fadeIn&fontColor=fff" width="100%" />
