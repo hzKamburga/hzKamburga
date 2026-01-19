@@ -13,7 +13,7 @@
   [![Age](https://img.shields.io/badge/Level-19-8a2be2?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/HzKamburga)
   [![Location](https://img.shields.io/badge/Base-Tokat,_TR-f75c7e?style=for-the-badge&logo=location-dot&logoColor=white)](https://github.com/HzKamburga)
   [![Focus](https://img.shields.io/badge/Focus-2025_Goals-4169e1?style=for-the-badge&logo=target&logoColor=white)](https://github.com/HzKamburga)
-  
+  [![Play Music](https://img.shields.io/badge/Play-My_Portfolio_Music-blue?style=for-the-badge&logo=applemusic)](https://hzkamburga.github.io/dev-audio-player/demo/play.html?src=https://s3.ustatik.com/audio.com.audio/transcoding/87/67/1836018889436787-1836018889474780-1836018891294291.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20260119%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260119T081250Z&X-Amz-SignedHeaders=host&X-Amz-Expires=518400&X-Amz-Signature=4afda623427c679008c8262acdabbc55799db31b1f9dc4b16bc55586d8b929ed&theme=dark)
   <br/>
   
   <a href="mailto:ofof2467yo@gmail.com">
